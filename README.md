@@ -5,6 +5,15 @@ Airbnb is a global online marketplace that connects travelers with hosts offerin
 
 This Tableau Visualization and Dashboards project is based on the assumption that we're being hired by Airbnb's competitor company, as an independent consultant, to provide key insights via visualization and dashboards, into the New York City rental market of Airbnb.
 
+## Data Source 
+Public AirBnB data source consisting of 30,000 records of New York City listings.
+
+
+## Data Structure
+The table consists of the below format with various columns. 
+
 ## Data Visualization using Tabluea
 
 [Tabluea Dashboard](https://public.tableau.com/authoring/AirBnB-NYC_17415814510710/Dashboard1/AirBnB-New%20York%20City#1)
+
+![AirBnB-New York City (1)](https://github.com/user-attachments/assets/64dab392-9aea-42b8-97ff-74e1e7937a4e)
